@@ -1,5 +1,3 @@
-# Alternativa B
-
 n = int(input("Número de filas (1-9): "))
 
 for i in range(n):
